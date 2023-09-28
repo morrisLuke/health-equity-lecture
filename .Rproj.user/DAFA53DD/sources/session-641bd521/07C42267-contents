@@ -1,0 +1,166 @@
+---
+title: "Fairly biased"
+subtitle: "Health equity through a journalism and data science lens"
+author: "[Luke Morris](https://lukesmorris.com/)"
+date: "09/27/2023"
+format:
+  revealjs:
+    theme: [default, seasons/seasons.scss]
+    chalkboard: true
+title-slide-attributes: 
+  data-background-color: "#64291F"
+editor:
+  render-on-save: true
+---
+
+## Welcome to West Athens {.fall}
+
+#### Fun fact: USC isn't the southern border of Los Angeles
+
+![](westAthensLAOverview.png)
+
+
+
+## Grocery/pharmacy run {.fall}
+
+![](commuteStart.png)
+
+
+
+## Where's the pharmacy? {.fall}
+
+![](commutePharmacies.png)
+
+
+
+## No car? {.fall}
+
+![](commuteTransit.png)
+
+
+
+
+## All routes point to our past {.fall}
+
+::: smaller
+![](LARedlining.png){width="800"}
+
+::: footer
+[Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/#loc=10/34.005/-118.557&city=los-angeles-ca)
+:::
+:::
+
+
+
+## L.A. air quality vs. L.A. redlining {.fall}
+::: smaller
+<iframe frameborder="0" class="juxtapose" width="800px" style="aspect-ratio:3/2.08" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=42620aea-065c-11ee-b5bd-6595d9b17862"></iframe>
+
+::: footer
+[AfroLA](https://afrolanews.org/2023/06/unequal-air-the-pollution-legacy-of-segregation-and-the-freeway-boom-in-los-angeles/)
+:::
+:::
+
+
+
+## L.A. air quality vs. L.A. COVID vulnerability {.fall}
+::: smaller
+<iframe frameborder="0" class="juxtapose" width="800px" style="aspect-ratio:3/2.08" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=f8f9f160-06e7-11ee-b5bd-6595d9b17862"></iframe>
+
+::: footer
+[Afro LA News](https://afrolanews.org/2023/06/unequal-air-the-pollution-legacy-of-segregation-and-the-freeway-boom-in-los-angeles/)
+:::
+:::
+
+
+
+## How do you find your inequity topic? {.fall}
+
+-   Compare your 'normal' with the 'normal' of others
+
+-   Switch up your route to work or the store
+
+-   Follow up on something surprising you heard
+
+-   Go with your natural curiosity
+
+    - Passionate about a topic? Get exploring
+    
+    - Know a personal blindspot? Challenge yourself
+
+
+
+# Let's talk data science {.winter}
+
+![](digitalHealthGrafic.jpg)
+
+
+
+## There's bias around every corner {.winter}
+:::: {.columns}
+
+::: {.column width="50%"}
+![](minefield.jpg)
+:::
+::: {.column width="50%"}
+- Antiquated attitudes
+
+- Non-representative sampling
+
+- Exclusionary methodologies
+
+- Uninterpretable AI models
+:::
+::::
+
+
+## {.winter}
+
+"Even if AI systems are designed by unbiased coders striving for neutrality,
+those systems derive data from and exist within a medical system that has its
+own antiminority culture; those views are embedded in the patters that AI
+learns."
+
+![](Bracic.png)
+
+::: {.footer}
+[Bracic et al](https://www.science.org/doi/10.1126/science.abo2788)
+:::
+
+## Race is more than a data column {.winter}
+
+![](azimi1.png)
+
+::: {.footer}
+[Azimi et al](https://academic.oup.com/jalm/article-abstract/8/1/113/6845827)
+:::
+
+
+
+## Race is more than a data column {.winter}
+
+- Even when race is removed from a dataset, statistical models can reliably predict a patient's race from the way the physician wrote about them. ([Keeling et al](https://arxiv.org/abs/2305.04008))
+
+- If bias is already creeping through, a statistical model will only exacerbate it.
+
+
+
+## Questions to explore {.winter}
+
+![](figueroa.png)
+
+::: {.footer}
+[Figueroa et al](https://www.frontiersin.org/articles/10.3389/fdgth.2022.807886)
+:::
+
+# {.winter}
+
+![](azimi2.png)
+
+::: {.footer}
+[Azimi et al](https://academic.oup.com/jalm/article-abstract/8/1/113/6845827)
+:::
+
+
+# Questions? {.winter}
+
